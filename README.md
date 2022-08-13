@@ -1,8 +1,5 @@
 <div align="center">
   
-  <br />
-  <br />
-  
   <img src="./readme-images/project-logo.png" />
 
   <h2 align="center">Casmart - eCommerce website</h2>
